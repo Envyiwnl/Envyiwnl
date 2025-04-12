@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Envyiwnl
-- 👀 I’m interested in C++ and JavaScript
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in C++, JavaScript, React,HTML,CSS,TailWind CSS,Python
+- 🌱 I’m currently learning Web3 Applications 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me parvezmusharf@gmail.com
 
